@@ -1,0 +1,27 @@
+docs/website/docs/dlt-ecosystem/destinations/sqlalchemy.md
+  s_6bd3fae6fa1c4e::t_e4b2ce481a5e3c 518
+docs/website/docs/dlt-ecosystem/transformations/sql.md
+  s_6bd3fae6fa1c4e::t_9855b407ad6dd6 97
+docs/website/docs/general-usage/credentials/advanced.md
+  s_6bd3fae6fa1c4e::t_cb53d03225bdb1 268-269
+docs/website/docs/general-usage/credentials/setup.md
+  s_6bd3fae6fa1c4e::t_3ea7040382728b 480
+docs/website/docs/general-usage/destination.md
+  s_6bd3fae6fa1c4e::t_fbdbb15582e692 689
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f0495881d0d47a7cc45e6f64746e054f06e618a7",
+  "prompts": {},
+  "sessions": {
+    "s_6bd3fae6fa1c4e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c194498-0947-4efd-9828-d7f4dd46bea1",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "sarthakuwar <kuwarsarthak711@gmail.com>"
+    }
+  }
+}
